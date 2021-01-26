@@ -7,5 +7,6 @@ void main()
  cout<<"welcome to my world of c++";
  cout<<"so let's get started!!!!";
  cout<<"steps to download turbo c++...stay tuned";
+ cout<<"set chrome as your default browser";
  getch();
 }
